@@ -1,8 +1,8 @@
 # cicd-demo
 
-Pipeline using GitHub actions and Dochub for a Python program.
+Pipeline using GitHub actions and Docker for a Python program.
 
-## Docker Deployment Guide
+## Docker Guide
 
 
 ### Prerequisites
